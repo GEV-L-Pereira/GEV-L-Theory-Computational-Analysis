@@ -1,6 +1,7 @@
 # GEV-L Pereira Theory: Computational Analysis & Lunar Modeling
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19906177.svg)](https://doi.org/10.5281/zenodo.19906177)
 
+
+ (https://zenodo.org/badge/DOI/10.5281/zenodo.19906177.svg)](https://doi.org/10.5281/zenodo.19906177)
 
 This repository contains the core computational engine developed for the **Endogenous Volatile Genesis (GEV-L)** theory. The project focuses on identifying and modeling high-concentration Helium-3 ($^3He$) deposits on the Moon through advanced topographic and thermal analysis.
 
