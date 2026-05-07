@@ -1,6 +1,5 @@
 # GEV-L Pereira Theory: Computational Analysis & Lunar Modeling
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19906177.svg)](https://doi.org/10.5281/zenodo.19906177)
 
  (https://zenodo.org/badge/DOI/10.5281/zenodo.19906177.svg)](https://doi.org/10.5281/zenodo.19906177)
 
