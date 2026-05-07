@@ -14,7 +14,7 @@ The GEV-L theory proposes that significant lunar Helium-3 deposits result from i
 ## 📊 Visual Evidence: Motor Pereira Output
 The image below demonstrates a high-resolution simulation frame highlighting radial symmetry and internal pressure vectors in a potential lunar exhalation window (PIP-1).
 
-![Motor Pereira Output](GEV-L_Endogenous_Analysis_Frame_01.png)
+![Motor Pereira Output](https://github.com/GEV-L-Pereira/GEV-L-Theory-Computational-Analysis/blob/main/GEV-L_Endogenous_Analysis_Frame_01.png.png)
 *Processing Time: < 4 seconds on M2 Pro architecture.*
 
 ## 🔗 Academic Links
