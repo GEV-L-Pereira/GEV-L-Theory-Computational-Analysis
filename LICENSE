@@ -1,21 +1,27 @@
-MIT License
+Copyright (c) 2026 Fabrício Hermogenes Pereira. All Rights Reserved.
 
-Copyright (c) 2026 Fabrício Hermógenes Pereira
+PROPRIETARY NOTICE AND TERMS OF USE:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. ALL RIGHTS RESERVED: The visual datasets, indexed dossiers, and 
+   geophysical coordinates contained in this repository are the 
+   exclusive intellectual property of Fabrício Hermogenes Pereira.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. RESTRICTED USE: Access to these materials is granted for personal 
+   consultation and academic study only. Any unauthorized reproduction, 
+   distribution, or commercial exploitation is strictly prohibited.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. REVERSE ENGINEERING: It is strictly forbidden to attempt to 
+   reverse engineer the "Motor Pereira v20.2 Platinum" logic or the 
+   "GEV-L Triangle of Truth" algorithm through the analysis of 
+   the output dossiers provided.
+
+4. ACADEMIC CITATION: Any reference to the GEV-L Theory or the 
+   indexed points must be properly cited using the Author's Name 
+   and ORCID: 0009-0006-8343-6476.
+
+5. PEER REVIEW: For institutional validation and peer review 
+   requests, please contact the author directly. Access to source 
+   code is subject to a Non-Disclosure Agreement (NDA).
+
+LIMITATION OF LIABILITY: The author is not responsible for any 
+misinterpretation of the data or its use by third parties.
