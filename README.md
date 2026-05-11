@@ -1,3 +1,11 @@
+
+# 🚀 Teoria GEV-L: Análise Computacional
+
+[![Assista à demonstração](https://img.youtube.com/vi/1V-Re1jjUCA/0.jpg)](https://youtube.com/shorts/1V-Re1jjUCA)
+*Clique acima para ver o resumo executivo da Soberania V20.2 no YouTube.*
+
+
+
 # GEV-L Theory: Computational Analysis & Evidence Datalog
 **Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
 
