@@ -32,6 +32,20 @@ For academic reviewers and institutional researchers (UFBA, SENAI CIMATEC, etc.)
 * Access to specific code modules may be requested for auditing purposes.
 * Process requires institutional identification and a signed **Non-Disclosure Agreement (NDA)**.
 
+* ### 🔑 How to Request Access / Como Solicitar Acesso
+
+**[EN]** Access to the private repository (**GEVL-Motor-Core-Platinum**) is strictly controlled and reserved for institutional partners, government agencies, and peer reviewers. To request access for technical auditing:
+1. **Official Contact**: Send an email to the author with your institutional credentials.
+2. **Security Protocol**: Access is granted only after the signature of a **Non-Disclosure Agreement (NDA)**.
+3. **Audit Scope**: Reviewers will have access to the Python source code, the official signed thesis, and raw datasets.
+
+**[PT-BR]** O acesso ao repositório privado (**GEVL-Motor-Core-Platinum**) é estritamente controlado e reservado a parceiros institucionais, órgãos governamentais e revisores. Para solicitar acesso para auditoria técnica:
+1. **Contato Oficial**: Envie um e-mail ao autor com suas credenciais institucionais.
+2. **Protocolo de Segurança**: O acesso é liberado apenas após a assinatura do **Acordo de Confidencialidade (NDA)**.
+3. **Escopo de Auditoria**: Os revisores terão acesso ao código-fonte Python, à tese oficial assinada e aos conjuntos de dados brutos.
+
+---
+
 ## 🔗 Official Links
 * **Website**: [Endogenous Volatile Genesis - GEV-L](https://sites.google.com/view/teoria-gev-l-pereira/)
 * **Scientific Archive**: [Zenodo Record 19906177](https://zenodo.org/records/19906177)
