@@ -1,15 +1,12 @@
 # 🚀 Teoria GEV-L: Análise Computacional
 
 [![Assista à demonstração](https://img.youtube.com/vi/1V-Re1jjUCA/0.jpg)](https://youtube.com/shorts/1V-Re1jjUCA)
-
-# GEV-L Theory: Computational Analysis & Evidence Datalog
-**Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
+*Clique acima para ver o resumo executivo da Soberania no YouTube.*
 
 
 # GEV-L Theory: Computational Analysis & Evidence Datalog
 **Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20264732.svg)](https://doi.org/10.5281/zenodo.20264732)
-
 
 ## 🛡️ Sovereignty Statement & Private Access
 For reasons of technological security, intellectual property protection, and scientific sovereignty, the full source code (**Motor Pereira V43.5 Platinum**) is maintained in a **private and secure environment** optimized for Apple Silicon M2 Pro architecture.
@@ -52,7 +49,8 @@ For academic reviewers and institutional researchers (UFBA, SENAI CIMATEC, etc.)
 
 ## 🔗 Official Links
 * **Website**: [Endogenous Volatile Genesis - GEV-L](https://sites.google.com/view/teoria-gev-l-pereira/)
-* **Scientific Archive**: [Zenodo Record 11195655](https://zenodo.org/records/11195655)
+* **Scientific Archive (Current Version)**: [Zenodo Record 20264732](https://zenodo.org/records/20264732)
+* **Scientific Archive (Previous Version)**: [Zenodo Record 19906177](https://zenodo.org/records/19906177)
 
 ---
 **© 2026 Fabrício Hermogenes Pereira. All Rights Reserved.**
