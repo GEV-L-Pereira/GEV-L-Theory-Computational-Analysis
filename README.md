@@ -3,10 +3,12 @@
 [![Assista à demonstração](https://img.youtube.com/vi/1V-Re1jjUCA/0.jpg)](https://youtube.com/shorts/1V-Re1jjUCA)
 *Clique acima para ver o resumo executivo da Soberania no YouTube.*
 
-
 # GEV-L Theory: Computational Analysis & Evidence Datalog
 **Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11195655.svg)](https://doi.org/10.5281/zenodo.11195655)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19906177.svg)](https://doi.org/10.5281/zenodo.19906177)
+
+
+
 
 ## 🛡️ Sovereignty Statement & Private Access
 For reasons of technological security, intellectual property protection, and scientific sovereignty, the full source code (**Motor Pereira V43.5 Platinum**) is maintained in a **private and secure environment** optimized for Apple Silicon M2 Pro architecture.
