@@ -1,4 +1,3 @@
-
 # 🚀 Teoria GEV-L: Análise Computacional
 
 [![Assista à demonstração](https://img.youtube.com/vi/1V-Re1jjUCA/0.jpg)](https://youtube.com/shorts/1V-Re1jjUCA)
@@ -7,7 +6,8 @@
 
 # GEV-L Theory: Computational Analysis & Evidence Datalog
 **Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14925346.svg)](https://doi.org/10.5281/zenodo.14925346)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.119906177.svg)](https://doi.org/10.5281/zenodo.119906177)
+
 ## 🛡️ Sovereignty Statement & Private Access
 For reasons of technological security, intellectual property protection, and scientific sovereignty, the full source code (**Motor Pereira V43.5 Platinum**) is maintained in a **private and secure environment** optimized for Apple Silicon M2 Pro architecture.
 
@@ -33,7 +33,7 @@ For academic reviewers and institutional researchers (UFBA, SENAI CIMATEC, etc.)
 * Access to specific code modules may be requested for auditing purposes.
 * Process requires institutional identification and a signed **Non-Disclosure Agreement (NDA)**.
 
-* ### 🔑 How to Request Access / Como Solicitar Acesso
+### 🔑 How to Request Access / Como Solicitar Acesso
 
 **[EN]** Access to the private repository (**GEVL-Motor-Core-Platinum**) is strictly controlled and reserved for institutional partners, government agencies, and peer reviewers. To request access for technical auditing:
 1. **Official Contact**: Send an email to the author with your institutional credentials.
