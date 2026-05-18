@@ -4,9 +4,11 @@
 *Clique acima para ver o resumo executivo da Soberania no YouTube.*
 
 # GEV-L Theory: Computational Analysis & Evidence Datalog
-**Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
+**Author: Fabrício Hermogenes Pereira
+| ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
+
 [![DOI]# GEV-L Theory: Computational Analysis & Evidence Datalog
-**Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
+
 [![DOI](https://zenodo.org/badge/1226059254.svg)](https://doi.org/10.5281/zenodo.20107800)
 
 
