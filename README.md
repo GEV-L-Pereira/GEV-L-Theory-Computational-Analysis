@@ -4,8 +4,11 @@
 
 # GEV-L Theory: Computational Analysis & Evidence Datalog
 **Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20264732.svg)](https://doi.org/10.5281/zenodo.20264732)
 
+
+# GEV-L Theory: Computational Analysis & Evidence Datalog
+**Author: Fabrício Hermogenes Pereira | ORCID: [0009-0006-8343-6476](https://orcid.org/0009-0006-8343-6476)**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20264732.svg)](https://doi.org/10.5281/zenodo.20264732)
 
 
 ## 🛡️ Sovereignty Statement & Private Access
